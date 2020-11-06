@@ -1,0 +1,45 @@
+table, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: Taviraj, monospace;
+    font-size: 20px;
+    margin: auto;
+}
+body {
+    background-color: #9999ff;
+    background-image: linear-gradient(#9999ff,#ffff99);
+    text-align: center;
+}
+h1 {
+    font-family: Taviraj, monospace;
+    font-size: 120px;
+    text-shadow: 7px 7px 20px #ffff99;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+h2 {
+    font-family: Taviraj, monospace;
+    font-size: 30px;
+}
+#first {
+    font-family: Satisfy, monospace;
+    font-size: 60px;
+    text-shadow: 7px 7px 20px #ffff99;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+p, ul {
+    font-family: Taviraj, monospace;
+    font-size: 20px;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.introText {
+    text-align: justify;
+    width: 65%;
+    margin: auto;
+}
